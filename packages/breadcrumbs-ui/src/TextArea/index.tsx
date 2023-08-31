@@ -2,7 +2,7 @@ import React from "react";
 import classNames from "classnames";
 import Flex from "../Flex";
 import Text from "../Text";
-import Icon from "@breadcrumbs/icons";
+import {Icon} from "breadcrumbs-icons";
 import { TextAreaProps } from "./types";
 
 const TextArea = ({

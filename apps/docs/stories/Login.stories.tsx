@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Login} from "@breadcrumbs/widgets";
-import {Flex} from "@breadcrumbs/ui";
+import {Login} from "breadcrumbs-widgets";
+import {Flex} from "breadcrumbs-ui";
 
 const meta = {
   title: "Widgets/Login",

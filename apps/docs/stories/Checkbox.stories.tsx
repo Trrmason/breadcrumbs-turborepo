@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Checkbox} from "@breadcrumbs/ui";
+import {Checkbox} from "breadcrumbs-ui";
 
 const meta = {
   title: "Components/Checkbox",

@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import Icon from "@breadcrumbs/icons";
-import {Button, Badge} from "@breadcrumbs/ui/src";
+import {Icon} from "breadcrumbs-icons";
+import {Button, Badge} from "breadcrumbs-ui";
 
 const meta = {
   title: "Components/Badge",

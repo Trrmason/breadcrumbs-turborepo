@@ -1,4 +1,4 @@
-import { WithDiv } from "@breadcrumbs/types/src";
+import { WithDiv } from "breadcrumbs-types/src";
 
 export type FlexDirection = "column" | "row";
 export type FlexAlign = "start" | "end" | "center" | "stretch" | "baseline";

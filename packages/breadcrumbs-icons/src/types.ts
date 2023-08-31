@@ -1,5 +1,5 @@
-import { Colors } from "@breadcrumbs/theme/src/types";
-import { Animations, WithStyle, WithSvg } from "@breadcrumbs/types/src";
+import { Colors } from "breadcrumbs-theme";
+import { Animations, WithStyle, WithSvg } from "breadcrumbs-types/src";
 
 export type Icons =
   | "google"

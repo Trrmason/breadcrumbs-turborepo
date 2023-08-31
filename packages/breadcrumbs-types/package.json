@@ -1,5 +1,5 @@
 {
-  "name": "@breadcrumbs/types",
+  "name": "breadcrumbs-types",
   "version": "0.1.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -16,7 +16,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@breadcrumbs/tsconfig": "*",
+    "breadcrumbs-tsconfig": "*",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.4",
     "eslint": "^8.15.0",

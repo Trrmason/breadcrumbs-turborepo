@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Input} from "@breadcrumbs/ui";
+import {Input} from "breadcrumbs-ui";
 
 const meta = {
   title: "Components/Input",

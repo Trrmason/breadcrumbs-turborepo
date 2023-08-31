@@ -1,5 +1,5 @@
-import { Colors } from "@breadcrumbs/theme/src/types";
-import { WithDiv } from "@breadcrumbs/types/src";
+import { Colors } from "breadcrumbs-theme";
+import { WithDiv } from "breadcrumbs-types/src";
 
 interface Props {
   color?: Colors;

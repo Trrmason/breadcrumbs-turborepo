@@ -1,6 +1,6 @@
 import { MouseEventHandler } from "react";
-import { WithChildren, WithStyle } from "@breadcrumbs/types/src";
-import { Colors } from "@breadcrumbs/theme/src/types";
+import { WithChildren, WithStyle } from "breadcrumbs-types";
+import { Colors } from "breadcrumbs-theme";
 
 export type FontWeight = "light" | "normal" | "semi-bold" | "bold";
 export type FontSize =

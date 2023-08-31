@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Text, Flex} from "@breadcrumbs/ui/src";
-import { allThemes } from "@breadcrumbs/theme/src/colors";
+import {Text, Flex} from "breadcrumbs-ui";
+import { allThemes } from "breadcrumbs-theme";
 
 const meta = {
   title: "Theme/Themes",

@@ -1,4 +1,4 @@
-# @breadcrumbs/theme
+# breadcrumbs-theme
 
 ## 0.1.0
 

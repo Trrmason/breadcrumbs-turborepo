@@ -1,4 +1,4 @@
-# @breadcrumbs/widgets
+# breadcrumbs-widgets
 
 ## 0.1.0
 
@@ -9,4 +9,4 @@
 ### Patch Changes
 
 - Updated dependencies [69cf4e4]
-  - @breadcrumbs/ui@0.1.0
+  - breadcrumbs-ui@0.1.0

@@ -1,4 +1,4 @@
-# @breadcrumbs/icons
+# breadcrumbs-icons
 
 ## 0.1.0
 
@@ -9,5 +9,5 @@
 ### Patch Changes
 
 - Updated dependencies [69cf4e4]
-  - @breadcrumbs/theme@0.1.0
-  - @breadcrumbs/types@0.1.0
+  - breadcrumbs-theme@0.1.0
+  - breadcrumbs-types@0.1.0

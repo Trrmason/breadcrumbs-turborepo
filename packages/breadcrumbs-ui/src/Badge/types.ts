@@ -1,5 +1,5 @@
-import { Colors } from "@breadcrumbs/theme/src/types";
-import { WithSpan } from "@breadcrumbs/types/src";
+import { Colors } from "breadcrumbs-theme";
+import { WithSpan } from "breadcrumbs-types/src";
 
 export type BadgeSizes = "sm" | "md" | "lg";
 

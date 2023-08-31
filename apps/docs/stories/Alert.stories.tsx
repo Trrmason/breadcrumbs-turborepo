@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Alert, Flex} from "@breadcrumbs/ui";
+import {Alert, Flex} from "breadcrumbs-ui";
 
 const meta = {
   title: "Components/Alert",

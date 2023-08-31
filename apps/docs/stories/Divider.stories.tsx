@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Divider, Flex} from "@breadcrumbs/ui/src";
+import {Divider, Flex} from "breadcrumbs-ui";
 
 
 const meta = {

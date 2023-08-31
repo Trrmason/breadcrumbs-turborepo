@@ -1,17 +1,16 @@
-import Icon from "@breadcrumbs/icons/src";
-import Flex from "../Flex";
-import { AlertProps, AlertTypes } from "./types";
-import classNames from "classnames";
-import { Colors } from "@breadcrumbs/theme/src/types";
-import { Icons } from "@breadcrumbs/icons/src/types";
-import Text from "../Text";
+import { Icons, Icon } from 'breadcrumbs-icons'
+import Flex from '../Flex'
+import { AlertProps, AlertTypes } from './types'
+import classNames from 'classnames'
+import { Colors } from 'breadcrumbs-theme'
+import Text from '../Text'
 
 const AlertVariants: Record<AlertTypes, { icon: Icons; color: Colors }> = {
-  info: { icon: "info", color: "info" },
-  warning: { icon: "warning", color: "warning" },
-  success: { icon: "check", color: "success" },
-  error: { icon: "error", color: "error" },
-};
+  info: { icon: 'info', color: 'info' },
+  warning: { icon: 'warning', color: 'warning' },
+  success: { icon: 'check', color: 'success' },
+  error: { icon: 'error', color: 'error' },
+}
 
 const Alert = ({
   className,
@@ -21,15 +20,15 @@ const Alert = ({
   children,
   ...props
 }: AlertProps) => {
-  const variant = AlertVariants[alertType];
+  const variant = AlertVariants[alertType]
   return (
     <Flex
       {...props}
       align="center"
       className={classNames(
         className,
-        "rounded-xl py-2 px-3 max-w-[320px] bg-opacity-5 ease-in duration-700 opacity-100",
-        `border border-${variant.color} bg-${variant.color}`
+        'rounded-xl py-2 px-3 max-w-[320px] bg-opacity-5 ease-in duration-700 opacity-100',
+        `border border-${variant.color} bg-${variant.color}`,
       )}
       role="alert"
     >
@@ -49,7 +48,7 @@ const Alert = ({
         />
       )}
     </Flex>
-  );
-};
+  )
+}
 
-export default Alert;
+export default Alert

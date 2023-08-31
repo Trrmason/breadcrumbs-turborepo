@@ -1,4 +1,4 @@
-# @breadcrumbs/tsconfig
+# breadcrumbs-tsconfig
 
 ## 0.1.0
 

@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Button, Flex} from "@breadcrumbs/ui/src";
+import {Button, Flex} from "breadcrumbs-ui";
 
 // More on how to set up stories at: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 const meta = {

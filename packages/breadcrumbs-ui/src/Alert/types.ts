@@ -1,4 +1,4 @@
-import { WithDiv } from "@breadcrumbs/types/src";
+import { WithDiv } from "breadcrumbs-types/src";
 
 export type AlertTypes = "success" | "info" | "warning" | "error";
 
