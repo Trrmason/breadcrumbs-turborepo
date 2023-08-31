@@ -9,16 +9,16 @@
     "clean": "rm -rf .turbo && rm -rf node_modules"
   },
   "dependencies": {
-    "breadcrumbs-ui": "0.1.0",
-    "breadcrumbs-widgets": "0.1.0",
-    "breadcrumbs-theme": "0.1.0",
-    "breadcrumbs-icons": "0.1.0",
+    "breadcrumbs-ui": "0.1.1",
+    "breadcrumbs-widgets": "0.1.1",
+    "breadcrumbs-theme": "0.1.1",
+    "breadcrumbs-icons": "0.1.1",
     "prettier": "^3.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "breadcrumbs-tsconfig": "0.1.0",
+    "breadcrumbs-tsconfig": "0.1.1",
     "@storybook/addon-actions": "^7.4.0",
     "@storybook/addon-docs": "^7.4.0",
     "@storybook/addon-essentials": "^7.4.0",
@@ -31,7 +31,7 @@
     "@storybook/addon-styling": "^2.0.0",
     "@tailwindcss/forms": "^0.5.4",
     "@vitejs/plugin-react": "^4.0.4",
-    "eslint-config-breadcrumbs": "0.1.0",
+    "eslint-config-breadcrumbs": "0.1.1",
     "eslint": "^8.15.0",
     "serve": "^13.0.4",
     "storybook": "^7.4.0",
