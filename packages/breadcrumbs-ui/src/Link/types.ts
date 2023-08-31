@@ -1,4 +1,4 @@
-import { WithChildren, WithStyle, WithAnchor } from "@breadcrumbs/types/src";
+import { WithChildren, WithStyle, WithAnchor } from "breadcrumbs-types/src";
 import { Props as TextProps } from "../Text/types";
 
 export type Cursor = "default" | "pointer";

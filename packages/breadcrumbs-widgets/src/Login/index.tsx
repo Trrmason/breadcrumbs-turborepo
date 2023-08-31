@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Input, Text, Divider, Button, Checkbox } from '@breadcrumbs/ui'
+import { Flex, Input, Text, Divider, Button, Checkbox } from 'breadcrumbs-ui'
 import { LoginProps } from './types'
 import classNames from 'classnames'
 

@@ -1,11 +1,11 @@
 // import { keys } from 'lodash'
 import {
   colorSafelist,
-  colorSafelistForStorybookOnly,
   theme,
+  colorSafelistForStorybookOnly,
   defaultTheme,
-} from '@breadcrumbs/theme/src/colors'
-import { mediaQueries, MediaSizes } from '@breadcrumbs/theme/src/mediaQueries'
+} from 'breadcrumbs-theme/src/colors'
+import { mediaQueries } from 'breadcrumbs-theme/src/mediaQueries'
 // import { Colors } from './src/theme/types'
 // const plugin = require('tailwindcss/plugin')
 

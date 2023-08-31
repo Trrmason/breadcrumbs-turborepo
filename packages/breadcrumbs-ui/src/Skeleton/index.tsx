@@ -1,7 +1,7 @@
 import React from "react";
 import { SkeletonProps } from "./types";
 import classNames from "classnames";
-import Icon from "@breadcrumbs/icons";
+import {Icon} from "breadcrumbs-icons";
 import Flex from "../Flex";
 
 const Skeleton = ({

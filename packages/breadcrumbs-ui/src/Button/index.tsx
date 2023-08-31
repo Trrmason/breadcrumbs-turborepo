@@ -1,8 +1,8 @@
 import React from 'react'
 import { ButtonProps, Sizes, Variants } from './types'
 import classNames from 'classnames'
-import Icon from '@breadcrumbs/icons'
-import { Colors } from '@breadcrumbs/theme/src/types'
+import { Icon } from 'breadcrumbs-icons'
+import { Colors } from 'breadcrumbs-theme'
 import Flex from '../Flex'
 
 const ButtonSizeVariants: Record<Sizes, string> = {

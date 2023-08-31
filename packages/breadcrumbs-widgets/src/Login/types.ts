@@ -1,4 +1,4 @@
-import { Colors } from "@breadcrumbs/theme/src/types";
+import { Colors } from "breadcrumbs-theme";
 
 interface Props {
   userFieldText?: "username" | "email";

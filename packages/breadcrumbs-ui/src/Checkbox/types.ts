@@ -1,5 +1,5 @@
-import { Colors } from "@breadcrumbs/theme/src/types";
-import { WithInput } from "@breadcrumbs/types/src";
+import { Colors } from "breadcrumbs-theme";
+import { WithInput } from "breadcrumbs-types/src";
 import { FontSize } from "../Text/types";
 
 interface Props {

@@ -1,5 +1,5 @@
 {
-  "name": "@breadcrumbs/theme",
+  "name": "breadcrumbs-theme",
   "version": "0.1.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -19,7 +19,7 @@
     "tw-colors": "^2.0.3"
   },
   "devDependencies": {
-    "@breadcrumbs/tsconfig": "*",
+    "breadcrumbs-tsconfig": "*",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.4",
     "eslint": "^8.15.0",

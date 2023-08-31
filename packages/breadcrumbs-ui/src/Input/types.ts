@@ -1,6 +1,6 @@
-import { Icons } from "@breadcrumbs/icons/src/types";
-import { Colors } from "@breadcrumbs/theme/src/types";
-import { WithInput } from "@breadcrumbs/types/src";
+import { Icons } from "breadcrumbs-icons";
+import { Colors } from "breadcrumbs-theme";
+import { WithInput } from "breadcrumbs-types/src";
 
 export interface Props {
   backgroundColor?: Colors;

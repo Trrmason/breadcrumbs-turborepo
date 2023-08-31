@@ -1,4 +1,4 @@
-# @breadcrumbs/types
+# breadcrumbs-types
 
 ## 0.1.0
 

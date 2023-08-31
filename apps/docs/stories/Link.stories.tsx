@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import React from "react";
-import {Link} from "@breadcrumbs/ui";
+import {Link} from "breadcrumbs-ui";
 
 const meta = {
   title: "Components/Link",

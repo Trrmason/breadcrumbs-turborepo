@@ -3,7 +3,7 @@ import { InputProps } from "./types";
 import classNames from "classnames";
 import Flex from "../Flex";
 import Text from "../Text";
-import Icon from "@breadcrumbs/icons";
+import {Icon} from "breadcrumbs-icons";
 
 const Input = ({
   className,

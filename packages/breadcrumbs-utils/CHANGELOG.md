@@ -1,4 +1,4 @@
-# @breadcrumbs/utils
+# breadcrumbs-utils
 
 ## 0.1.0
 
