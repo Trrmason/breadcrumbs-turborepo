@@ -1,5 +1,11 @@
 # breadcrumbs-tsconfig
 
+## 0.1.1
+
+### Patch Changes
+
+- 1d55390: Fix import errors between packages
+
 ## 0.1.0
 
 ### Minor Changes
