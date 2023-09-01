@@ -1,5 +1,16 @@
 # breadcrumbs-widgets
 
+## 0.2.0
+
+### Minor Changes
+
+- 8c2c9ff: Added more components to multiple libraries
+
+### Patch Changes
+
+- Updated dependencies [8c2c9ff]
+  - breadcrumbs-ui@0.2.0
+
 ## 0.1.1
 
 ### Patch Changes
