@@ -1,5 +1,18 @@
 # breadcrumbs-ui
 
+## 0.2.0
+
+### Minor Changes
+
+- 8c2c9ff: Added more components to multiple libraries
+
+### Patch Changes
+
+- Updated dependencies [8c2c9ff]
+  - breadcrumbs-icons@0.2.0
+  - breadcrumbs-theme@0.2.0
+  - breadcrumbs-types@0.2.0
+
 ## 0.1.1
 
 ### Patch Changes
