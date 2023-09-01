@@ -39,6 +39,7 @@ const Button = ({
       className={classNames(
         className,
         getButtonVariants(variant, backgroundColor),
+        'hover:opacity-90',
         `text-${
           variant === 'secondary' ? textColor ?? 'text' : textColor ?? 'white'
         } border border-${backgroundColor} ${
